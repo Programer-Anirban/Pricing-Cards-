@@ -1,4 +1,3 @@
-<style>
 *{
   margin: 0;
   padding: 0;
@@ -156,15 +155,3 @@ li span{
 .wrapper button:hover{
   transform: scale(0.98);
 }
-@media screen and (max-width:368px){
-  .wrapper{
-    width: 360px;
-    padding:34px 25px 18px 18px;
-    box-shadow:none;
-    border-radius: 7px;
-  }
-  #tab-3:checked ~ header .slider{
-  width: 88px;
-}
-}
-</style>
